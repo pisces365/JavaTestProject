@@ -2,7 +2,7 @@
 
 测试
 
-# Sez Cooper: 我tama来辣？不来
+# Sez Cooper: 我tama来辣？不来不来
 
 jfinal cms
 ------------------------
