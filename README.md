@@ -1,5 +1,7 @@
 本项目是基于https://github.com/jflyfox/jfinal_cms项目的测试项目，服务于软件测试课程，请关注项目原始作者。
 
+# Sez Cooper: 我tama来辣
+
 jfinal cms
 ------------------------
 
